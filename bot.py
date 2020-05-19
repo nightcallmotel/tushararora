@@ -811,4 +811,4 @@ async def embed(ctx, *args):
 async def on_member_join(Member: discord.User):
     await client.send_message(Member,'**welcome to iron trivia Join the official server of Bot owner This server is the best server for voice answer so join Fast!!** {https://discord.gg/mCsPgub}')
 
-client.run('NjEzODA0OTc3MDY4MDQ4NDA1.XV2Qtw._UencYa3XUdo3rhuUopin9zMdJM')
+client.run('NzEyMjI3NjYxMjMzMjU4NTc2.XsOgDw.NpZzLCQCg87OqBYi-C5VBbsg9fM')
